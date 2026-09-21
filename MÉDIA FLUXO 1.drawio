@@ -1,0 +1,39 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="5ju4z47EW8zBlOv4cAhx">
+    <mxGraphModel dx="1406" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fxAlCosBonKy0cgGZnZi-6" edge="1" parent="1" source="fxAlCosBonKy0cgGZnZi-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fxAlCosBonKy0cgGZnZi-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAlCosBonKy0cgGZnZi-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="INÍCIO&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAlCosBonKy0cgGZnZi-9" edge="1" parent="1" source="fxAlCosBonKy0cgGZnZi-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.608;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" target="fxAlCosBonKy0cgGZnZi-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fxAlCosBonKy0cgGZnZi-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="formula média =&amp;nbsp;&lt;div&gt;&lt;br&gt;(p1+p2+p3+p4)/4&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAlCosBonKy0cgGZnZi-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="FIM" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAlCosBonKy0cgGZnZi-7" edge="1" parent="1" source="fxAlCosBonKy0cgGZnZi-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fxAlCosBonKy0cgGZnZi-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAlCosBonKy0cgGZnZi-5" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Ler p1,p2,p3,p4" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAlCosBonKy0cgGZnZi-12" edge="1" parent="1" source="fxAlCosBonKy0cgGZnZi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fxAlCosBonKy0cgGZnZi-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fxAlCosBonKy0cgGZnZi-11" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Escrever média" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="450" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

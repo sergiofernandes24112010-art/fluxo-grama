@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="bE8ActRa7vgKlgpJpDn1">
+    <mxGraphModel dx="1406" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="lifsWHlimRVXipa8MLWF-7" edge="1" parent="1" source="lifsWHlimRVXipa8MLWF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lifsWHlimRVXipa8MLWF-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lifsWHlimRVXipa8MLWF-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="INÍCIO" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lifsWHlimRVXipa8MLWF-8" edge="1" parent="1" source="lifsWHlimRVXipa8MLWF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lifsWHlimRVXipa8MLWF-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lifsWHlimRVXipa8MLWF-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Ler" vertex="1">
+          <mxGeometry height="60" width="160" x="300" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="lifsWHlimRVXipa8MLWF-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="FIM" vertex="1">
+          <mxGeometry height="80" width="120" x="320" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="lifsWHlimRVXipa8MLWF-9" edge="1" parent="1" source="lifsWHlimRVXipa8MLWF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lifsWHlimRVXipa8MLWF-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lifsWHlimRVXipa8MLWF-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="60" width="150" x="305" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="lifsWHlimRVXipa8MLWF-10" edge="1" parent="1" source="lifsWHlimRVXipa8MLWF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lifsWHlimRVXipa8MLWF-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lifsWHlimRVXipa8MLWF-6" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Escrever quantos litros o automóvel gastou aos 100km" vertex="1">
+          <mxGeometry height="80" width="160" x="300" y="510" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

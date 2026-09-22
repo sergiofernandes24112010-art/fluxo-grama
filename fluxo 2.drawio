@@ -8,28 +8,30 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="lifsWHlimRVXipa8MLWF-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="INÍCIO" vertex="1">
-          <mxGeometry height="80" width="120" x="320" y="20" as="geometry" />
+          <mxGeometry height="80" width="120" x="320" as="geometry" />
         </mxCell>
-        <mxCell id="lifsWHlimRVXipa8MLWF-8" edge="1" parent="1" source="lifsWHlimRVXipa8MLWF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lifsWHlimRVXipa8MLWF-5" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lifsWHlimRVXipa8MLWF-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Ler" vertex="1">
-          <mxGeometry height="60" width="160" x="300" y="190" as="geometry" />
+        <mxCell id="lifsWHlimRVXipa8MLWF-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Ler kmi, kmf, litros" vertex="1">
+          <mxGeometry height="60" width="187.5" x="286.25" y="170" as="geometry" />
         </mxCell>
         <mxCell id="lifsWHlimRVXipa8MLWF-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="FIM" vertex="1">
-          <mxGeometry height="80" width="120" x="320" y="680" as="geometry" />
+          <mxGeometry height="80" width="120" x="320" y="690" as="geometry" />
         </mxCell>
         <mxCell id="lifsWHlimRVXipa8MLWF-9" edge="1" parent="1" source="lifsWHlimRVXipa8MLWF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lifsWHlimRVXipa8MLWF-6" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lifsWHlimRVXipa8MLWF-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
-          <mxGeometry height="60" width="150" x="305" y="360" as="geometry" />
+        <mxCell id="lifsWHlimRVXipa8MLWF-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Litros_aos_100=litros*100(kmf-kmi)" vertex="1">
+          <mxGeometry height="60" width="195" x="282.5" y="360" as="geometry" />
         </mxCell>
         <mxCell id="lifsWHlimRVXipa8MLWF-10" edge="1" parent="1" source="lifsWHlimRVXipa8MLWF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="lifsWHlimRVXipa8MLWF-4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lifsWHlimRVXipa8MLWF-6" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Escrever quantos litros o automóvel gastou aos 100km" vertex="1">
-          <mxGeometry height="80" width="160" x="300" y="510" as="geometry" />
+        <mxCell id="lifsWHlimRVXipa8MLWF-6" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Escrever litros_aos_100" vertex="1">
+          <mxGeometry height="70" width="207.5" x="276.25" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="zI36laGowF9envuG4ka8-1" edge="1" parent="1" source="lifsWHlimRVXipa8MLWF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="lifsWHlimRVXipa8MLWF-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="383.8" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

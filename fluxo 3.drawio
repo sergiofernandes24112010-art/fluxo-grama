@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="Wx8Ar4BbAQXVwIJixuYL">
+    <mxGraphModel dx="1406" dy="1949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BctWZytEb-mS8Pdg_zLc-7" edge="1" parent="1" source="BctWZytEb-mS8Pdg_zLc-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BctWZytEb-mS8Pdg_zLc-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BctWZytEb-mS8Pdg_zLc-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="Início" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="-670" as="geometry" />
+        </mxCell>
+        <mxCell id="BctWZytEb-mS8Pdg_zLc-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" value="Fim" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="-90" as="geometry" />
+        </mxCell>
+        <mxCell id="BctWZytEb-mS8Pdg_zLc-10" edge="1" parent="1" source="BctWZytEb-mS8Pdg_zLc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BctWZytEb-mS8Pdg_zLc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BctWZytEb-mS8Pdg_zLc-6" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" value="Ver nota do aluno" vertex="1">
+          <mxGeometry height="60" width="150" x="339" y="-510" as="geometry" />
+        </mxCell>
+        <mxCell id="BctWZytEb-mS8Pdg_zLc-14" edge="1" parent="1" source="BctWZytEb-mS8Pdg_zLc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BctWZytEb-mS8Pdg_zLc-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BctWZytEb-mS8Pdg_zLc-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" value="Aluno estará aprovado se tiver mais de 9,5 e reprovado caso contrário" vertex="1">
+          <mxGeometry height="70" width="150" x="339" y="-360" as="geometry" />
+        </mxCell>
+        <mxCell id="BctWZytEb-mS8Pdg_zLc-15" edge="1" parent="1" source="BctWZytEb-mS8Pdg_zLc-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="BctWZytEb-mS8Pdg_zLc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BctWZytEb-mS8Pdg_zLc-11" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" value="Nota de 0 á 20" vertex="1">
+          <mxGeometry height="60" width="164" x="332" y="-230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

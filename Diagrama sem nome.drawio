@@ -1,9 +1,45 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="fzcOuxiMeAADyMD9m-31">
-    <mxGraphModel>
+    <mxGraphModel dx="2163" dy="1200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-aPiZx_VjFEu8H7fsbBe-4" edge="1" parent="1" source="-aPiZx_VjFEu8H7fsbBe-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-aPiZx_VjFEu8H7fsbBe-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-aPiZx_VjFEu8H7fsbBe-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Início" vertex="1">
+          <mxGeometry height="80" width="120" x="354" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="-aPiZx_VjFEu8H7fsbBe-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Fim" vertex="1">
+          <mxGeometry height="80" width="120" x="670" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="-aPiZx_VjFEu8H7fsbBe-6" edge="1" parent="1" source="-aPiZx_VjFEu8H7fsbBe-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-aPiZx_VjFEu8H7fsbBe-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-aPiZx_VjFEu8H7fsbBe-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="N = 0" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-aPiZx_VjFEu8H7fsbBe-8" edge="1" parent="1" source="-aPiZx_VjFEu8H7fsbBe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-aPiZx_VjFEu8H7fsbBe-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-aPiZx_VjFEu8H7fsbBe-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Soma = 0" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="-aPiZx_VjFEu8H7fsbBe-7" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Contador &amp;gt; N" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="-aPiZx_VjFEu8H7fsbBe-14" edge="1" parent="1" source="-aPiZx_VjFEu8H7fsbBe-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-aPiZx_VjFEu8H7fsbBe-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-aPiZx_VjFEu8H7fsbBe-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Pedir um número&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="-aPiZx_VjFEu8H7fsbBe-11" edge="1" parent="1" source="-aPiZx_VjFEu8H7fsbBe-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-aPiZx_VjFEu8H7fsbBe-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-aPiZx_VjFEu8H7fsbBe-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Soma = Soma + número" vertex="1">
+          <mxGeometry height="60" width="144" x="342" y="640" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
